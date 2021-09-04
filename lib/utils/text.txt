@@ -1,0 +1,110 @@
+    ArtisteModel(
+                  name: 'Abdoulaye Fall',
+                  type: 0,
+                  urlSongs: [
+                    SongModel(
+                        name: 'Baye Laye Laniou Yoni',
+                        urlFichier:
+                            'assets/song/layenne/abdoulaye-fall/baye-laye-lanou-yoni.mp3'),
+                    SongModel(
+                        name: 'Djeuf si Seydi Limamou',
+                        urlFichier:
+                            'assets/song/layenne/abdoulaye-fall/dieuf-si-limamou.mp3'),
+                    SongModel(
+                        name: 'Djamal Khalifa Bi',
+                        urlFichier:
+                            'assets/song/layenne/abdoulaye-fall/djamal-khalifabi.mp3'),
+                    SongModel(
+                        name: 'Imami Seydi Abdoulaye',
+                        urlFichier:
+                            'assets/song/layenne/abdoulaye-fall/imami-seydi-abdoulaye.mp3'),
+                    SongModel(
+                        name: 'Mamadou Rassouloulaye',
+                        urlFichier:
+                            'assets/song/layenne/abdoulaye-fall/mamdou-roussoulahi.mp3'),
+                    SongModel(
+                        name: 'Ndolo Li',
+                        urlFichier:
+                            'assets/song/layenne/abdoulaye-fall/Ndono-Li.mp3'),
+                    SongModel(
+                        name: 'Sant Lène Buur Yalla',
+                        urlFichier:
+                            'assets/song/layenne/abdoulaye-fall/sant-léne-bour-yalla.mp3'),
+                  ],
+                  urlTof: 'assets/images/artistes/abdoulaye fall.png'),
+              ArtisteModel(
+                  name: 'Vieux Ndiongue',
+                  type: 0,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/vieux ndiongue.png'),
+              ArtisteModel(
+                  name: 'Baye Ndjine Thiaw',
+                  type: 1,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/baye ndjine thiaw.png'),
+              ArtisteModel(
+                  name: 'Serigne Abdoulaye',
+                  type: 1,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/serigne abdoulahi.png'),
+              ArtisteModel(
+                  name: 'Mame Mbaye',
+                  type: 0,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/mame mbaye.png'),
+              ArtisteModel(
+                  name: 'Cheikh Mbacke Laye',
+                  type: 1,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/cheikh mbacke laye.png'),
+              ArtisteModel(
+                  name: 'Libasse Mbengue',
+                  type: 0,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/libasse mbengue.png'),
+              ArtisteModel(
+                  name: 'Khoudia Laye',
+                  type: 0,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/khoudia laye.png'),
+              ArtisteModel(
+                  name: 'Codou Thiaw',
+                  type: 0,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/codou thiaw.png'),
+              ArtisteModel(
+                  name: 'Iba Gaye Laye',
+                  type: 0,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/iba gaye laye.png'),
+              ArtisteModel(
+                  name: 'Ideu Thiaw',
+                  type: 1,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/ideu thiaw.png'),
+              ArtisteModel(
+                  name: 'Ibou Laye',
+                  type: 0,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/ibou laye.png'),
+              ArtisteModel(
+                  name: 'Iman Mamadou Mathar',
+                  type: 1,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/imam mamadou makhtar.png'),
+              ArtisteModel(
+                  name: 'Mamadou Lamine Laye',
+                  type: 1,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/mamadou lamine laye.png'),
+              ArtisteModel(
+                  name: 'Mame Abdoulaye Kebe',
+                  type: 1,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/mame abdoulaye kebe.png'),
+              ArtisteModel(
+                  name: 'Mame Libasse Laye',
+                  type: 1,
+                  urlSongs: [],
+                  urlTof: 'assets/images/artistes/mame libasse laye.png'),
+            
